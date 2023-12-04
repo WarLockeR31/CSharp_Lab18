@@ -11,7 +11,6 @@ namespace Lab18
 	{
 		static void Main(string[] args)
 		{
-			Debug.Assert(0 > 1);
 			Console.Write("0 => ");
 			WriteLineBinaryRanks(0);
 			Console.Write("7 => ");
