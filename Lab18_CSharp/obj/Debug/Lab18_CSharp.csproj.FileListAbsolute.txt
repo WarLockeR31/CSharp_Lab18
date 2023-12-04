@@ -1,0 +1,7 @@
+C:\Users\Asus\Documents\GitHub\CSharp_Lab18\Lab18_CSharp\bin\Debug\Lab18_CSharp.exe.config
+C:\Users\Asus\Documents\GitHub\CSharp_Lab18\Lab18_CSharp\bin\Debug\Lab18_CSharp.exe
+C:\Users\Asus\Documents\GitHub\CSharp_Lab18\Lab18_CSharp\bin\Debug\Lab18_CSharp.pdb
+C:\Users\Asus\Documents\GitHub\CSharp_Lab18\Lab18_CSharp\obj\Debug\Lab18_CSharp.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\CSharp_Lab18\Lab18_CSharp\obj\Debug\Lab18_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\GitHub\CSharp_Lab18\Lab18_CSharp\obj\Debug\Lab18_CSharp.exe
+C:\Users\Asus\Documents\GitHub\CSharp_Lab18\Lab18_CSharp\obj\Debug\Lab18_CSharp.pdb
