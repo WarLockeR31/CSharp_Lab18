@@ -15,8 +15,8 @@ iam_token = response.json()["iamToken"]
 
 client = TrackerClient(iam_token=iam_token, cloud_org_id="bpf03jjagkgrpums4gtp")
 
-
-client.issues.create(queue='TCBUILDFAILS', summary='One of builds steps failed', type={'name': 'Bug'}, description='please fix')
-# queue = client.queues['BONUS']
+# queue = client.queues['TCBUILDFAILS']
 # print(queue)
+client.issues.create(queue='TCBUILDFAILS', summary='One of builds steps failed', type={'name': 'Bug'}, description='please fix', assignee="danil.kuryata")
 
+# print(queue)
