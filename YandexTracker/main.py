@@ -16,7 +16,7 @@ iam_token = response.json()["iamToken"]
 client = TrackerClient(iam_token=iam_token, cloud_org_id="bpf03jjagkgrpums4gtp")
 
 
-client.issues.create(queue='BONUS', summary='One of builds steps failed', type={'name': 'Bug'}, description='please fix')
+client.issues.create(queue='TeamCity Build Fails', summary='One of builds steps failed', type={'name': 'Bug'}, description='please fix')
 # queue = client.queues['BONUS']
 # print(queue)
 
